@@ -17,3 +17,7 @@ Insertando una imagen en el body para todas las paginas
 Se agrego el Copyright en los 5 HTML en el footer
 
 Se modifico el color de las letras para que combine con el fondo 
+
+Se modifico el header y la nav para que sea n lo mas semejante posible con el de Bootstrap
+
+Se aplico overflow en el eje X y se aplico overflow en el eje Y en los iconos de las redes para no ver las scrollbar de FB e IG
